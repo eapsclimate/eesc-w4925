@@ -1,2 +1,1 @@
-# eesc-w4925
-Introduction to Physical Oceanography research project
+# Sources and Sinks of Eddy Kinetic Energy off Eastern Australia
